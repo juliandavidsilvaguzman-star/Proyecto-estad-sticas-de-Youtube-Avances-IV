@@ -96,6 +96,5 @@ Proyecto elaborado por **Julián David Silva Guzmán** y **Jhon Eduard Tinjaca C
 ## Referencias
 
 - Dataset: [YouTube Statistics, Kaggle](https://www.kaggle.com/datasets/advaypatil/youtube-statistics).
-- Evidencia de modelos: `Modelo_NLP_YouTube_Colab_III_V2.ipynb - Colab.pdf`.
 - Documentación de etapa III: `Informe_Etapa3_Modelo_NLP_YouTube_Final 1.docx`.
 - Informe de cierre: `Informe_Proyecto_Estadisticas_YouTube_Avances_IV.docx`.
