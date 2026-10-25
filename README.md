@@ -15,17 +15,8 @@ Este proyecto estudia la relación entre los comentarios de vídeos de YouTube y
 
 La entrega **Avances IV** presenta la evaluación final respecto al diseño inicial, los resultados obtenidos, los retos resueltos, las lecciones aprendidas y las limitaciones pendientes.
 
-## Archivos de la entrega
-
-```text
-.
-├── README.md
-├── Proyecto_Estadisticas_YouTube_Avances_IV_Final.ipynb
-└── Informe_Proyecto_Estadisticas_YouTube_Avances_IV.docx
-```
 
 - **Notebook:** consolida resultados documentados, genera tablas y visualizaciones comparativas y permite exportar evidencias CSV en un ZIP.
-- **Informe Word:** análisis de resultados, evolución del diseño, retos, lecciones aprendidas y conclusiones. Para la entrega académica, exportarlo a PDF.
 
 > El notebook de Avances IV **no vuelve a entrenar los modelos**: utiliza métricas registradas en la ejecución de la etapa III V2. Para repetir el entrenamiento completo, consultar el Colab de la etapa III.
 
